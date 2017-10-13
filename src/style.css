@@ -1,0 +1,17 @@
+body {
+  font-family: 'lato';
+}
+
+svg {
+  shape-rendering: optimizeSpeed;
+}
+
+#plate,
+#canvas {
+  height: 600px;
+  width: 600px;
+}
+
+#container {
+  display: flex;
+}

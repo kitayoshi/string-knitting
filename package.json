@@ -1,0 +1,20 @@
+{
+  "name": "string-knitting",
+  "version": "0.0.1",
+  "description": "using string knitting image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "knitting",
+    "art"
+  ],
+  "author": "midare",
+  "license": "MIT",
+  "dependencies": {
+    "svg.js": "^2.6.3",
+    "zepto": "^1.2.0"
+  }
+}
