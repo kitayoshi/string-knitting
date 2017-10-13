@@ -1,6 +1,8 @@
 # String Knitting
 
-serve root directory by using [http-server](https://github.com/indexzero/http-server) or something like. change image url in function.js
+## run
+
+serve root directory by using [http-server](https://github.com/indexzero/http-server) or something like due to CORS policy. change image url in function.js
 
 ## example
 
