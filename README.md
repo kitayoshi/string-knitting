@@ -4,7 +4,7 @@ inspired by [A new way to knit (2016)](http://artof01.com/vrellis/works/knit.htm
 
 ## run
 
-serve root directory by using [http-server](https://github.com/indexzero/http-server) or something like due to CORS policy. change image url in function.js
+`npm i` and serve root directory by using [http-server](https://github.com/indexzero/http-server) or something like due to CORS policy. change image url in function.js
 
 ## example
 
