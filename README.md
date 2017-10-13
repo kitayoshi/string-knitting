@@ -1,5 +1,7 @@
 # String Knitting
 
+inspired by [A new way to knit (2016)](http://artof01.com/vrellis/works/knit.html), petros vrellis
+
 ## run
 
 serve root directory by using [http-server](https://github.com/indexzero/http-server) or something like due to CORS policy. change image url in function.js
