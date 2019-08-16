@@ -2,11 +2,17 @@
 
 inspired by [A new way to knit (2016)](http://artof01.com/vrellis/works/knit.html), petros vrellis
 
-## run
+## Run
 
-`npm i` and serve root directory by using [http-server](https://github.com/indexzero/http-server) or something like due to CORS policy. change image url in function.js
+`npm i` and `npm start`, check <http://localhost:8080>.
 
-## example
+Due to CORS policy, you must host index.html and other static file via http protocal. You may use other static file host server other than `http-server`.
+
+## Change image
+
+change image url in function.js at last line.
+
+## Example
 
 four images in exmaple folder
 
