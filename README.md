@@ -1,12 +1,14 @@
 # String Knitting
 
-inspired by [A new way to knit (2016)](http://artof01.com/vrellis/works/knit.html), petros vrellis
+Inspired by [A new way to knit (2016)](http://artof01.com/vrellis/works/knit.html), petros vrellis.
+
+Check <https://midare.github.io/string-knitting/> for the online demonstration.
 
 ## Run
 
 `npm i` and `npm start`, check <http://localhost:8080>.
 
-Due to CORS policy, you must host index.html and other static file via http protocal. You may use other static file host server other than `http-server`.
+Due to the CORS policy, you must host the index.html and other static files via http protocal. You may use other static-file-host-server other than `http-server`.
 
 ## Change image
 
