@@ -4,7 +4,7 @@
   "description": "using string knitting image",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx http-server"
   },
   "keywords": [
     "string",
@@ -14,6 +14,7 @@
   "author": "midare",
   "license": "MIT",
   "dependencies": {
+    "http-server": "^0.11.1",
     "svg.js": "^2.6.3",
     "zepto": "^1.2.0"
   }
