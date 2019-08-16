@@ -1,7 +1,7 @@
 function generatePinList(length, width, height) {
   const center = [width / 2, height / 2];
   const radius = width / 2;
-  const angleUnit = Math.PI * 2 / length;
+  const angleUnit = (Math.PI * 2) / length;
 
   const pinList = Array(length)
     .fill()
@@ -278,6 +278,6 @@ $(() => {
   plate = SVG("plate").size(600, 600);
 
   image = new Image();
-  image.src = "./example/round.png";
+  image.src = "./example/xman.jpg";
   image.onload = init;
 });
