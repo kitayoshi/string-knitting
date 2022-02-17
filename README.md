@@ -2,7 +2,7 @@
 
 Inspired by [A new way to knit (2016)](http://artof01.com/vrellis/works/knit.html), petros vrellis.
 
-Check <https://midare.github.io/string-knitting/> for the online demonstration.
+Check <https://kitayoshi.github.io/string-knitting> for the online demonstration.
 
 ## Run
 
