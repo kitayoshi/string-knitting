@@ -14,7 +14,7 @@
   "author": "midare",
   "license": "MIT",
   "dependencies": {
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "svg.js": "^2.6.3",
     "zepto": "^1.2.0"
   }
